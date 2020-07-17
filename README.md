@@ -1,4 +1,3 @@
-# SumOfSumsOfDigitsInCyclicOrder
 
 import java.io.*;
 
